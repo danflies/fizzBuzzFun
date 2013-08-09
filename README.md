@@ -1,0 +1,4 @@
+fizzBuzzFun
+===========
+
+The classic exercise
