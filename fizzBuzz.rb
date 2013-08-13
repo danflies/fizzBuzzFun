@@ -12,7 +12,7 @@ def fizzBuzz (n)
 end
 
 n = 1
-until n > 100
+until n >= 100
   puts fizzBuzz(n)
   n += 1
 end
