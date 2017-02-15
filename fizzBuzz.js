@@ -1,4 +1,4 @@
-fizzBuzz = function(n) {
+function fizzbuzz(n) {
     switch(true){
         case n % 15 == 0:
             return "fizzbuzz";
